@@ -1,12 +1,42 @@
-# React + Vite
+# 🎞️ Framer Motion Practice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **Framer Motion** learning repository!  
+This repo contains all my practice files and mini-projects as I explore animation in React using **Framer Motion**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 What is Framer Motion?
 
-## Expanding the ESLint configuration
+[Framer Motion](https://www.framer.com/motion/) is a powerful animation library for React that makes it easy to add smooth, interactive animations.  
+It supports simple transitions, gestures, drag-and-drop, scroll animations, and even complex layout animations.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📚 Topics I'm Learning
+
+- ✅ Basic Animations (fade, scale, rotate, slide)
+- ✅ Transition and Keyframes
+- ✅ Hover and Tap Effects
+- ✅ Drag & Drop Interactions
+- ✅ Scroll-based Animations
+- ✅ Layout Animations
+- ✅ Shared Layout Animations
+- ✅ Variants and Animation Controls
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React.js
+- 🎞️ Framer Motion
+
+---
+
+## 🚀 How to Run Locally
+
+```bash
+git clone https://github.com/your-username/Framer_Motion.git
+cd Framer_Motion
+npm install
+npm start
+
