@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div>
       <div className="box">
-        
+        Learning Framer Motion
       </div>
     </div>
   )
