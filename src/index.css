@@ -21,4 +21,22 @@ body{
   width: 200px;
   background-color: crimson;
   border: 3px solid white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 10px;
+}
+
+h1 {
+  color: #fff;
+  border-bottom: 2px solid crimson;
+  padding-bottom: 10px;
+}
+
+h2 {
+  color: #ff6b9d;
+  font-size: 20px;
+  margin-bottom: 15px;
 }
