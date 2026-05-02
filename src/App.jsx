@@ -1,11 +1,13 @@
-import React, { useState } from 'react'
-import { motion, AnimatePresence } from 'motion/react'
+import React from 'react'
+import {motion, AnimatePresence} from 'motion/react'
 
 const App = () => {
 
   return (
     <div>
-      <h1>Learning Framer Motion</h1>
+      <motion.div className='box'>
+        
+      </motion.div>
     </div>
   )
 }
